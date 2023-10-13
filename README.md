@@ -1,2 +1,2 @@
 # SponsorSavvy---Sponsorship-Management-Platform-
-SponsorSavy, utilizing Machine Learning, addresses the inefficiencies in sports marketing. The platform serves as a centralized hub connecting event organizers and sponsors. With AI-driven matching, streamlined outreach tools, and robust analytics, SponsorSavy simplifies sponsorships and enhances decision-making.
+Developed SponsorSavvy, a comprehensive sponsorship management platform connecting event organizers with sponsors, achieving a 25% increase in sponsor-event matching accuracy. Leveraged data analytics, AI, and ML for precise sponsor-event matching, and conducted statistical analysis using tools like RapidMiner Studio and JMP. Designed intuitive UI/UX on Figma for seamless interactions.
